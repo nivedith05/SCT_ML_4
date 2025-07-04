@@ -1,10 +1,9 @@
-# 🙌 Hand Gesture Recognition Using Classical Machine Learning
-
+# 🙌 Hand Gesture Recognition 
 🔹 **Organization**: SkillCraft Technology (Internship Project)  
 🔹 **Role**: Machine Learning Intern  
 🔹 **Task**: 4
 
-As part of my internship at **SkillCraft Technology**, I worked on a basic **hand gesture recognition system** using classical machine learning algorithms. The goal was to classify hand gestures based on preprocessed image data — without relying on deep learning or heavy image processing techniques.
+As part of my internship at **SkillCraft Technology**, I worked on a basic **hand gesture recognition system** using machine learning algorithms. The goal was to classify hand gestures based on preprocessed image data — without relying on deep learning or heavy image processing techniques.
 
 ## 🎯 Objective
 
